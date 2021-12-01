@@ -6,7 +6,6 @@ disabled_rules:
  - unused_capture_list
  - comment_spacing
  - inclusive_language
- - identifier_name
  - cyclomatic_complexity
 
 function_parameter_count: 8
